@@ -1,0 +1,3 @@
+Python is very popular.
+In Python we have different types of datatypes.
+Python supports object oriented programming.
